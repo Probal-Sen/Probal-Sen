@@ -88,13 +88,7 @@
 <h1 align="center">🐍 Snake Animation</h1>
 <img src="https://raw.githubusercontent.com/Probal-Sen/Probal-Sen/output/snake.svg" alt="Snake animation" />
 
-<h1 align="center">🟡 Pacman Contribution Graph</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Probal-Sen/Probal-Sen/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Probal-Sen/Probal-Sen/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Probal-Sen/Probal-Sen/output/pacman-contribution-graph.svg">
-</picture>
 
 
 ###
